@@ -178,4 +178,57 @@ input[type="checkbox"] {
     transform: translateX(0);
     opacity: 1;
   }
+<<<<<<< HEAD
 }
+=======
+}
+
+.categorias{
+    
+    display:flex;
+    justify-content: center;
+    align-items: center; 
+
+}
+.categorias ul img{
+    width: 1000px;
+    padding: 25px;
+    margin-top: -180%;
+    
+}
+.guitarras{
+    background-color: red;
+    color: white;
+    padding: 7px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+.imageGuitarra{
+    display:flex;
+    justify-content: space-between;
+    align-items: center; 
+    background: rgb(206, 205, 205);
+}
+.imageGuitarra ul img{
+    width: 180px;
+    height: auto ;
+    padding: 5px;
+    margin-top: 0%;
+}
+.imageGuitarra ul figcaption{
+    font-size: 12px;
+    text-align: center;
+}
+.imageGuitarra ul footer{
+    font-size: 12px;
+    text-align: center;
+}
+.imageGuitarra ul button{
+   position: relative;
+   background-color: #F2F2F2;
+   border:transparent;
+   display: flex;
+   left: 60px;
+   top: 30px;
+}
+>>>>>>> section
